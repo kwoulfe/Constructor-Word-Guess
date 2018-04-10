@@ -39,7 +39,7 @@ var Word = function(word) {
     var display = ' ';
 
     this.letters.forEach(function(letter) {
-      var currentLetter = letter.renderLetter();
+      var currentLetter = letter.showLetter();
       display += currentLetter;
     });
     return display;

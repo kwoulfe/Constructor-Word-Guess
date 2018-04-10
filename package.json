@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kwoulfe/Constructor-Word-Guess#readme",
   "dependencies": {
-    "inquirer": "^5.2.0"
+    "inquirer": "^5.2.0",
+    "is-letter": "^1.1.1"
   }
 }
